@@ -13,6 +13,6 @@ The following packages are required:
  
  
 Instalation guídlines for the packages:
-* [https://www.circuitbasics.com/introduction-to-computer-vision-using-opencv-and-raspberry-pi]
-* [https://maker.pro/raspberry-pi/tutorial/how-to-read-gps-data-with-python-on-a-raspberry-pi]
-* [https://makersportal.com/blog/2018/8/23/recording-audio-on-the-raspberry-pi-with-python-and-a-usb-microphone]
+* https://www.circuitbasics.com/introduction-to-computer-vision-using-opencv-and-raspberry-pi
+* https://maker.pro/raspberry-pi/tutorial/how-to-read-gps-data-with-python-on-a-raspberry-pi
+* https://makersportal.com/blog/2018/8/23/recording-audio-on-the-raspberry-pi-with-python-and-a-usb-microphone
